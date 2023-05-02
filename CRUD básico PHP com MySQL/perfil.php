@@ -8,7 +8,7 @@
 	<meta charset="utf-8">
 	<title>Perfil</title>
 	<link rel="stylesheet" type="text/css" href="estilo.css">
-	<link rel="icon" type="image/png" href="icon2.png">
+	<link rel="icon" type="image/png" href="icon3.png">
 	<link rel="stylesheet"  media="'screen" href="main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/fontawesome.min.css" integrity="sha512-giQeaPns4lQTBMRpOOHsYnGw1tGVzbAIHUyHRgn7+6FmiEgGGjaG0T2LZJmAPMzRCl+Cug0ItQ2xDZpTmEc+CQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/brands.min.css" integrity="sha512-G/T7HQJXSeNV7mKMXeJKlYNJ0jrs8RsWzYG7rVACye+qrcUhEAYKYzaa+VFy6eFzM2+/JT1Q+eqBbZFSHmJQew==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -17,7 +17,7 @@
 <body onload="mostrar();">
 		<a href="index.php">
 			<figure>
-			<img id="icon"src ="icon2.png" title="Pagina inicial"><figcaption>APPR</figcaption>
+			<img id="icon"src ="icon3.png" title="Pagina inicial"><figcaption></figcaption>
 			</figure>
 		</a>
 		<h1>Perfil</h1>

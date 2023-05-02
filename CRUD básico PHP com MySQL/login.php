@@ -3,14 +3,14 @@
     <title>Autenticar Usuário</title>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="estilo.css">
-    <link rel="icon" type="image/png" href="icon2.png">
+    <link rel="icon" type="image/png" href="icon3.png">
     <link rel="stylesheet"  media="'screen" href="main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/fontawesome.min.css" integrity="sha512-giQeaPns4lQTBMRpOOHsYnGw1tGVzbAIHUyHRgn7+6FmiEgGGjaG0T2LZJmAPMzRCl+Cug0ItQ2xDZpTmEc+CQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/brands.min.css" integrity="sha512-G/T7HQJXSeNV7mKMXeJKlYNJ0jrs8RsWzYG7rVACye+qrcUhEAYKYzaa+VFy6eFzM2+/JT1Q+eqBbZFSHmJQew==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/solid.min.css" integrity="sha512-6mc0R607di/biCutMUtU9K7NtNewiGQzrvWX4bWTeqmljZdJrwYvKJtnhgR+Ryvj+NRJ8+NnnCM/biGqMe/iRA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   </head>
   <body>
-    <a href="index.php"><img id="icon"src ="icon2.png" title="Pagina inicial"></a>
+    <a href="index.php"><img id="icon"src ="icon3.png" title="logo"></a>
     <h1>Login</h1> 
 
     <form action="autenticar.php" method="POST">
